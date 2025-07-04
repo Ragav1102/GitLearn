@@ -9,7 +9,6 @@ Welcome to **GitLearn**, your ultimate guide to mastering Git – one commit at 
 - [How to Use](#how-to-use)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
