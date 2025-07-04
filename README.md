@@ -134,12 +134,6 @@ Let’s build a fantastic Git resource together! 💥
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
 ## 🎉 Ready to Start?
 
 GitLearn is your personal Git playground! Start exploring, break things (we promise, it’s part of the fun), and come out a Git master. 💻✨
